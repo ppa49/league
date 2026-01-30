@@ -2,31 +2,32 @@ SEASON RECAP
 ===========
 League: Brad's
 Season: 2025-2026
-Tournaments recorded: 11
+Tournaments recorded: 12
 
 FINAL STANDINGS
 --------------
 Rank Player                    Points   Games   Wins   Top3
-1    Brad M.                   129.00      11      3      5
-2    Marc D.                   117.00      11      4      5
-3    Jeff D.                   100.00      11      0      2
-4    Patrick M.                 97.00      11      0      2
-5    Branson                    90.00       9      1      3
-6    Don                        87.00      11      0      0
-7    Rich                       87.00       9      1      3
-8    Greg                       74.00      11      0      1
-9    Chris                      73.50      10      0      1
-10   Brent                      72.00       9      0      2
-11   Brad C.                    63.00       6      0      1
-12   Brynn C.                   60.50       8      1      2
-13   Colton C.                  52.00      11      0      2
-14   Rick M.                    48.50      10      0      1
+1    Brad M.                   144.00      12      3      6
+2    Marc D.                   126.00      12      4      5
+3    Patrick M.                113.00      12      1      3
+4    Jeff D.                   102.00      12      0      2
+5    Branson                   100.00      10      1      3
+6    Don                        92.00      12      0      0
+7    Rich                       88.50      10      1      3
+8    Chris                      87.50      11      0      2
+9    Brent                      83.00      10      0      2
+10   Greg                       82.00      12      0      1
+11   Brad C.                    69.00       7      0      1
+12   Colton C.                  64.00      12      0      2
+13   Rick M.                    61.50      11      0      1
+14   Brynn C.                   60.50       8      1      2
 15   Steve C.                   48.00       7      0      0
 16   Clint O.                   46.50       5      1      2
-17   Jerry C.                   27.00       7      0      0
-18   Kaley C.                   25.50       6      0      1
-19   Clarissa                    5.00       1      0      0
-20   Casey                       3.00       1      0      0
+17   Jerry C.                   31.00       8      0      0
+18   Kaley C.                   28.50       7      0      1
+19   Yake F                      7.00       1      0      0
+20   Clarissa                    5.00       1      0      0
+21   Casey                       3.00       1      0      0
 
 TOURNAMENT FINISHES (Full placement order)
 ------------------------------------------
@@ -214,3 +215,21 @@ Tournament 11: Night_Report_2026-01-20_22-06-11.txt
   11. Chris
   12. Colton C.
   13. Brad M. (WINNER)
+
+Tournament 12: Night_Report_2026-01-27_22-12-02.txt
+  1. Rich
+  2. Jeff D.
+  3. Kaley C.
+  4. Jerry C.
+  5. Don
+  6. Brad C.
+  7. Yake F
+  8. Greg
+  9. Marc D.
+  10. Branson
+  11. Brent
+  12. Colton C.
+  13. Rick M.
+  14. Chris
+  15. Brad M.
+  16. Patrick M. (WINNER)
