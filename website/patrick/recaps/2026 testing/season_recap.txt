@@ -1,0 +1,33 @@
+SEASON RECAP
+===========
+League: Patrick
+Season: 2026 testing
+Tournaments recorded: 1
+
+FINAL STANDINGS
+--------------
+Rank Player                    Points   Games   Wins   Top3
+1    Dan Wheaton                18.00       1      1      1
+2    Steve English              18.00       1      0      1
+3    Dave Campbell              14.00       1      0      1
+4    Brad Martin                 7.00       1      0      0
+5    Denise Campbell             7.00       1      0      0
+6    Marc Deane                  7.00       1      0      0
+7    Rick Martin                 7.00       1      0      0
+8    Joel Oziah                  6.00       1      0      0
+9    John Wheaton                5.00       1      0      0
+10   Patrick Martin              5.00       1      0      0
+
+TOURNAMENT FINISHES (Full placement order)
+------------------------------------------
+Tournament 1: Night_Report_2026-01-20_14-31-49.txt
+  1. Patrick Martin
+  2. Brad Martin
+  3. Marc Deane
+  4. Denise Campbell
+  5. John Wheaton
+  6. Joel Oziah
+  7. Rick Martin
+  8. Steve English
+  9. Dave Campbell
+  10. Dan Wheaton (WINNER)

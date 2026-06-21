@@ -1,0 +1,54 @@
+SEASON RECAP
+===========
+League: Patrick
+Season: Season 1
+Tournaments recorded: 2
+
+FINAL STANDINGS
+--------------
+Rank Player                    Points   Games   Wins   Top3
+1    Brad Martin                74.00       3      1      2
+2    Patrick Martin             71.00       3      0      1
+3    Rick Martin                55.00       3      1      1
+4    Clint Oliver               39.00       3      0      0
+5    Steve Taxis                35.00       3      0      1
+6    Dave Campbell              34.00       3      0      0
+7    Marc Deane                 32.00       3      0      0
+8    Lenny Hall                 30.00       3      0      0
+9    Denise Campbell            26.00       3      0      0
+10   Tim Ayers                  25.00       2      0      1
+11   Al Campbell                17.00       2      0      0
+12   Joel Oziah                 16.00       2      0      0
+13   Kris Andre                 16.00       2      0      0
+
+TOURNAMENT FINISHES (Full placement order)
+------------------------------------------
+Tournament 1: Night_Report_2026-01-07_20-59-04.txt
+  1. Kris Andre
+  2. Al Campbell
+  3. Joel Oziah
+  4. Patrick Martin
+  5. Rick Martin
+  6. Marc Deane
+  7. Clint Oliver
+  8. Dave Campbell
+  9. Denise Campbell
+  10. Lenny Hall
+  11. Steve Taxis
+  12. Tim Ayers
+  13. Brad Martin (WINNER)
+
+Tournament 2: Night_Report_2026-01-07_21-05-57.txt
+  1. Kris Andre
+  2. Denise Campbell
+  3. Joel Oziah
+  4. Lenny Hall
+  5. Marc Deane
+  6. Al Campbell
+  7. Steve Taxis
+  8. Tim Ayers
+  9. Dave Campbell
+  10. Clint Oliver
+  11. Brad Martin
+  12. Patrick Martin
+  13. Rick Martin (WINNER)

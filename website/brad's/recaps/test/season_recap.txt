@@ -1,0 +1,24 @@
+SEASON RECAP
+===========
+League: Brad's
+Season: test
+Tournaments recorded: 2
+
+FINAL STANDINGS
+--------------
+Rank Player                    Points   Games   Wins   Top3
+1    Brad M.                     6.00       2      2      2
+2    Rich                        4.00       2      0      2
+3    Marc D.                     3.00       2      0      2
+
+TOURNAMENT FINISHES (Full placement order)
+------------------------------------------
+Tournament 1: Night_Report_2026-04-11_15-37-16.txt
+  1. Marc D.
+  2. Rich
+  3. Brad M. (WINNER)
+
+Tournament 2: Night_Report_2026-04-11_15-55-25.txt
+  1. Marc D.
+  2. Rich
+  3. Brad M. (WINNER)

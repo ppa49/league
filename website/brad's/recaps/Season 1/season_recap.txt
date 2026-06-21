@@ -1,0 +1,48 @@
+SEASON RECAP
+===========
+League: Brad's
+Season: Season 1
+Tournaments recorded: 4
+
+FINAL STANDINGS
+--------------
+Rank Player                    Points   Games   Wins   Top3
+1    Brad M.                    29.00       5      4      4
+2    Marc D.                    22.00       5      0      4
+3    Patrick M.                 16.00       1      0      0
+4    Colton C.                  15.00       1      0      0
+5    Greg                       13.00       1      0      0
+6    Brad C.                    12.00       1      0      0
+7    Clint O.                   11.00       1      0      0
+8    Jerry C.                   10.00       1      0      0
+9    Rick M.                     9.00       1      0      0
+10   Brynn C.                    8.00       1      0      0
+11   Rich                        7.50       5      0      4
+12   Steve C.                    7.00       1      0      0
+13   Jeff D.                     6.00       1      0      0
+14   Kaley C.                    5.00       1      0      0
+15   Don                         4.00       1      0      0
+16   Branson                     3.00       1      0      0
+17   Brent                       2.00       1      0      0
+
+TOURNAMENT FINISHES (Full placement order)
+------------------------------------------
+Tournament 1: Night_Report_2026-01-27_09-06-44.txt
+  1. Rich
+  2. Marc D.
+  3. Brad M. (WINNER)
+
+Tournament 2: Night_Report_2026-01-27_10-20-41.txt
+  1. Rich
+  2. Marc D.
+  3. Brad M. (WINNER)
+
+Tournament 3: Night_Report_2026-01-27_10-37-00.txt
+  1. Rich
+  2. Marc D.
+  3. Brad M. (WINNER)
+
+Tournament 4: Night_Report_2026-01-27_10-54-34.txt
+  1. Rich
+  2. Marc D.
+  3. Brad M. (WINNER)

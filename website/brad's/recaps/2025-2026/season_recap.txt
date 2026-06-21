@@ -1,0 +1,253 @@
+SEASON RECAP
+===========
+League: Brad's
+Season: 2025-2026
+Tournaments recorded: 13
+
+FINAL STANDINGS
+--------------
+Rank Player                    Points   Games   Wins   Top3
+1    Brad M.                   156.00      13      3      6
+2    Marc D.                   137.00      13      4      5
+3    Patrick M.                129.00      13      2      4
+4    Branson                   114.00      11      1      4
+5    Jeff D.                   110.00      13      0      2
+6    Don                       107.00      13      0      1
+7    Chris                     100.50      12      0      2
+8    Rich                       92.50      11      1      3
+9    Brent                      89.00      11      0      2
+10   Greg                       89.00      13      0      1
+11   Brad C.                    74.00       8      0      1
+12   Rick M.                    70.50      12      0      1
+13   Colton C.                  65.50      13      0      2
+14   Brynn C.                   62.50       9      1      2
+15   Steve C.                   48.00       7      0      0
+16   Clint O.                   46.50       5      1      2
+17   Kaley C.                   38.50       8      0      1
+18   Jerry C.                   34.00       9      0      0
+19   Yake F                      7.00       1      0      0
+20   Clarissa                    5.00       1      0      0
+21   Casey                       3.00       1      0      0
+
+TOURNAMENT FINISHES (Full placement order)
+------------------------------------------
+Tournament 1: Night_Report_2026-01-10_16-59-30.txt
+  1. Colton C.
+  2. Branson
+  3. Rick M.
+  4. Brynn C.
+  5. Patrick M.
+  6. Jerry C.
+  7. Don
+  8. Chris
+  9. Jeff D.
+  10. Greg
+  11. Brent
+  12. Marc D.
+  13. Brad M.
+  14. Brad C.
+  15. Rich
+  16. Clint O. (WINNER)
+
+Tournament 2: Night_Report_2026-01-13_16-45-47.txt
+  1. Colton C.
+  2. Rick M.
+  3. Greg
+  4. Chris
+  5. Don
+  6. Patrick M.
+  7. Rich
+  8. Brynn C.
+  9. Marc D.
+  10. Brad C.
+  11. Jeff D.
+  12. Steve C.
+  13. Brent
+  14. Kaley C.
+  15. Brad M. (WINNER)
+
+Tournament 3: Night_Report_2026-01-13_16-51-32.txt
+  1. Colton C.
+  2. Chris
+  3. Jerry C.
+  4. Branson
+  5. Brent
+  6. Greg
+  7. Jeff D.
+  8. Brad M.
+  9. Patrick M.
+  10. Don
+  11. Steve C.
+  12. Marc D.
+  13. Clint O.
+  14. Rich (WINNER)
+
+Tournament 4: Night_Report_2026-01-13_16-55-52.txt
+  1. Chris
+  2. Brent
+  3. Greg
+  4. Rich
+  5. Jeff D.
+  6. Brad M.
+  7. Don
+  8. Colton C.
+  9. Patrick M.
+  10. Branson
+  11. Rick M.
+  12. Brynn C.
+  13. Marc D. (WINNER)
+
+Tournament 5: Night_Report_2026-01-13_17-01-46.txt
+  1. Kaley C.
+  2. Steve C.
+  3. Brynn C.
+  4. Don
+  5. Brent
+  6. Rick M.
+  7. Jerry C.
+  8. Jeff D.
+  9. Clint O.
+  10. Brad C.
+  11. Greg
+  12. Rich
+  13. Marc D.
+  14. Branson
+  15. Colton C.
+  16. Patrick M.
+  17. Brad M. (WINNER)
+
+Tournament 6: Night_Report_2026-01-13_17-07-00.txt
+  1. Clint O.
+  2. Rich
+  3. Rick M.
+  4. Steve C.
+  5. Greg
+  6. Colton C.
+  7. Brad M.
+  8. Chris
+  9. Jeff D.
+  10. Brent
+  11. Don
+  12. Patrick M.
+  13. Branson
+  14. Marc D. (WINNER)
+
+Tournament 7: Night_Report_2026-01-13_17-11-57.txt
+  1. Colton C.
+  2. Marc D.
+  3. Casey
+  4. Jerry C.
+  5. Clarissa
+  6. Rick M.
+  7. Brynn C.
+  8. Kaley C.
+  9. Don
+  10. Patrick M.
+  11. Brad C.
+  12. Chris
+  13. Brad M.
+  14. Jeff D.
+  15. Greg
+  16. Branson (WINNER)
+
+Tournament 8: Night_Report_2026-01-13_17-17-30.txt
+  1. Colton C.
+  2. Kaley C.
+  3. Jerry C.
+  4. Greg
+  5. Marc D.
+  6. Brent
+  7. Clint O.
+  8. Rick M.
+  9. Chris
+  10. Steve C.
+  11. Don
+  12. Patrick M.
+  13. Brad M.
+  14. Brad C.
+  15. Jeff D.
+  16. Branson
+  17. Brynn C. (WINNER)
+
+Tournament 9: Night_Report_2026-01-13_17-23-17.txt
+  1. Brynn C.
+  2. Colton C.
+  3. Steve C.
+  4. Greg
+  5. Rick M.
+  6. Patrick M.
+  7. Chris
+  8. Don
+  9. Jeff D.
+  10. Rich
+  11. Branson
+  12. Brad M.
+  13. Brent
+  14. Marc D. (WINNER)
+
+Tournament 10: Night_Report_2026-01-13_21-48-06.txt
+  1. Colton C.
+  2. Jerry C.
+  3. Rick M.
+  4. Brad C.
+  5. Jeff D.
+  6. Greg
+  7. Brent
+  8. Brynn C.
+  9. Patrick M.
+  10. Don
+  11. Chris
+  12. Brad M.
+  13. Rich
+  14. Marc D. (WINNER)
+
+Tournament 11: Night_Report_2026-01-20_22-06-11.txt
+  1. Rick M.
+  2. Jerry C.
+  3. Patrick M.
+  4. Branson
+  5. Don
+  6. Steve C.
+  7. Greg
+  8. Jeff D.
+  9. Marc D.
+  10. Rich
+  11. Chris
+  12. Colton C.
+  13. Brad M. (WINNER)
+
+Tournament 12: Night_Report_2026-01-27_22-12-02.txt
+  1. Rich
+  2. Jeff D.
+  3. Kaley C.
+  4. Jerry C.
+  5. Don
+  6. Brad C.
+  7. Yake F
+  8. Greg
+  9. Marc D.
+  10. Branson
+  11. Brent
+  12. Colton C.
+  13. Rick M.
+  14. Chris
+  15. Brad M.
+  16. Patrick M. (WINNER)
+
+Tournament 13: Night_Report_2026-02-01_00-32-26.txt
+  1. Colton C.
+  2. Brynn C.
+  3. Jerry C.
+  4. Rich
+  5. Brad C.
+  6. Brent
+  7. Greg
+  8. Jeff D.
+  9. Rick M.
+  10. Kaley C.
+  11. Marc D.
+  12. Brad M.
+  13. Chris
+  14. Branson
+  15. Don
+  16. Patrick M. (WINNER)
