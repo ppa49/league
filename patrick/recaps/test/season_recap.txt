@@ -1,0 +1,54 @@
+SEASON RECAP
+===========
+League: Patrick
+Season: test
+Tournaments recorded: 4
+
+FINAL STANDINGS
+--------------
+Rank Player                    Points   Games   Wins   Top3
+1    Patrick Martin             77.00       4      3      3
+2    Brad Martin                61.50       4      0      3
+3    Rick Martin                56.00       4      0      3
+4    Tim Ayers                  22.00       1      1      1
+5    Wiggy Miller               13.50       1      0      1
+6    Rudi Ziegler               13.00       1      0      0
+7    Marc Deane                 12.00       1      0      0
+8    Kris Andre                 10.00       1      0      1
+9    Joel Oziah                  9.50       1      0      0
+10   Lenny Hall                  7.00       1      0      0
+11   Steve Taxis                 7.00       1      0      0
+12   Branson Vahl                6.50       1      0      0
+13   Jose Perez                  6.50       1      0      0
+
+TOURNAMENT FINISHES (Full placement order)
+------------------------------------------
+Tournament 1: Night_Report_2026-04-11_15-04-12.txt
+  1. Brad Martin
+  2. Rick Martin
+  3. Patrick Martin (WINNER)
+
+Tournament 2: Night_Report_2026-04-11_15-06-11.txt
+  1. Brad Martin
+  2. Rick Martin
+  3. Patrick Martin (WINNER)
+
+Tournament 3: Night_Report_2026-04-11_15-30-07.txt
+  1. Marc Deane
+  2. Brad Martin
+  3. Rick Martin
+  4. Patrick Martin (WINNER)
+
+Tournament 4: Night_Report_2026-04-11_22-28-27.txt
+  1. Branson Vahl
+  2. Joel Oziah
+  3. Patrick Martin
+  4. Jose Perez
+  5. Lenny Hall
+  6. Steve Taxis
+  7. Rick Martin
+  8. Brad Martin
+  9. Rudi Ziegler
+  10. Kris Andre
+  11. Wiggy Miller
+  12. Tim Ayers (WINNER)

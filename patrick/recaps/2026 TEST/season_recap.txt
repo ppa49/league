@@ -1,0 +1,124 @@
+SEASON RECAP
+===========
+League: Patrick
+Season: 2026 TEST
+Tournaments recorded: 6
+
+FINAL STANDINGS
+--------------
+Rank Player                    Points   Games   Wins   Top3
+1    Joel Oziah                 89.00       6      2      3
+2    Brad Martin                73.00       5      0      1
+3    Branson Vahl               61.50       4      1      2
+4    John Wheaton               44.00       4      0      0
+5    Tim Ayers                  44.00       3      1      2
+6    Dan Wheaton                41.50       4      1      2
+7    Lenny Hall                 39.00       4      0      1
+8    Patrick Martin             39.00       6      0      0
+9    Steve Taxis                34.00       4      0      1
+10   Rick Martin                33.50       5      0      0
+11   Kris Andre                 29.00       3      0      2
+12   Chris Thompson             28.00       2      1      1
+13   Marc Deane                 28.00       4      0      0
+14   Steve English              25.50       2      0      1
+15   Wes Vahl                   20.00       2      0      0
+16   Kim Vahl                   16.00       2      0      0
+17   Jose Perez                 15.00       2      0      0
+18   Wiggy Miller               14.50       1      0      1
+19   Dave Campbell              14.00       1      0      1
+20   Jared Campbell             14.00       1      0      0
+21   Clint Oliver               13.00       2      0      0
+22   Rudi Ziegler               13.00       1      0      0
+23   Dale Green                 11.00       2      0      0
+24   Denise Campbell             7.00       1      0      0
+25   Mike Konicek                6.50       1      0      0
+26   Al Campbell                 6.00       1      0      0
+27   Justin Thibault             5.00       1      0      0
+
+TOURNAMENT FINISHES (Full placement order)
+------------------------------------------
+Tournament 1: Night_Report_2026-01-14_18-34-14.txt
+  1. Patrick Martin
+  2. Brad Martin
+  3. Marc Deane
+  4. Denise Campbell
+  5. John Wheaton
+  6. Joel Oziah
+  7. Rick Martin
+  8. Steve English
+  9. Dave Campbell
+  10. Dan Wheaton (WINNER)
+
+Tournament 2: Night_Report_2026-04-28_21-32-45.txt
+  1. Steve English
+  2. Patrick Martin
+  3. Lenny Hall
+  4. Branson Vahl
+  5. Steve Taxis
+  6. Clint Oliver
+  7. Marc Deane
+  8. Al Campbell
+  9. Dan Wheaton
+  10. Kim Vahl
+  11. Kris Andre
+  12. Rick Martin
+  13. Wes Vahl
+  14. Jared Campbell
+  15. John Wheaton
+  16. Tim Ayers
+  17. Brad Martin
+  18. Joel Oziah (WINNER)
+
+Tournament 3: Night_Report_2026-04-28_21-51-13.txt
+  1. Patrick Martin
+  2. Wes Vahl
+  3. Marc Deane
+  4. Kim Vahl
+  5. John Wheaton
+  6. Joel Oziah
+  7. Brad Martin
+  8. Dan Wheaton
+  9. Lenny Hall
+  10. Branson Vahl (WINNER)
+
+Tournament 4: Night_Report_2026-04-28_22-06-45.txt
+  1. Branson Vahl
+  2. Joel Oziah
+  3. Patrick Martin
+  4. Jose Perez
+  5. Lenny Hall
+  6. Steve Taxis
+  7. Rick Martin
+  8. Brad Martin
+  9. Rudi Ziegler
+  10. Kris Andre
+  11. Wiggy Miller
+  12. Tim Ayers (WINNER)
+
+Tournament 5: Night_Report_2026-05-02_22-18-57.txt
+  1. Dale Green
+  2. Patrick Martin
+  3. Rick Martin
+  4. Justin Thibault
+  5. Lenny Hall
+  6. Jose Perez
+  7. Dan Wheaton
+  8. John Wheaton
+  9. Clint Oliver
+  10. Steve Taxis
+  11. Joel Oziah
+  12. Chris Thompson (WINNER)
+
+Tournament 6: Night_Report_2026-06-13_22-41-02.txt
+  1. Patrick Martin
+  2. Chris Thompson
+  3. Mike Konicek
+  4. Tim Ayers
+  5. Steve Taxis
+  6. Marc Deane
+  7. Rick Martin
+  8. Dale Green
+  9. Brad Martin
+  10. Kris Andre
+  11. Branson Vahl
+  12. Joel Oziah (WINNER)
